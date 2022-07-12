@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvidnya Tipre</h1>
-<h3 align="center">A passionate Developer from India and an undergraduate at IIT Guwahati</h3><br/>
+<h3 align="center">A Development and Design enthusiast from India and an undergraduate at IIT Guwahati</h3><br/>
 
 - 🔭 I’m currently working on **Full stack projects**
 
